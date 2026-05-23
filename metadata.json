@@ -1,0 +1,6 @@
+{
+  "name": "BookVerse",
+  "description": "A premium modern mobile bookstore application with an AI companion, reading customized summaries, and offline library management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
